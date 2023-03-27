@@ -37,3 +37,7 @@ h1 {
  aside {
    color: black;
  }
+ .img {
+   width: 100px;
+   height: 100px;
+ }
